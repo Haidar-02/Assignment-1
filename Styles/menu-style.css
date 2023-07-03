@@ -240,4 +240,15 @@ a {
   .content {
     grid-template-columns: repeat(2, 1fr);
   }
+  .nav-mid {
+    text-align: start;
+  }
+  .nav-mid-link {
+    border-bottom: none;
+    border-left: 2px solid #d1cfcf;
+  }
+  .nav-mid-link:hover {
+    border-left: 2px solid black;
+    border-bottom: none;
+  }
 }
