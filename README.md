@@ -1,3 +1,3 @@
-# signin_register_assignment
+# SEF Website Clone
 
-**Hosted at :** https://haidar-02.github.io/SIGNIN_UP-Assignment/
+**Hosted at :**
